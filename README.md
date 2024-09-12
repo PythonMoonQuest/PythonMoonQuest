@@ -1,5 +1,14 @@
 # 💫 About Me:
-I'm a self-taught enthusiast who fell in love with python.<br>Here are the steps of my journey.<br>Join me in reveling the Python wonderland
+Hello there! I'm Tajsia from Serbia, 
+Also an Python enthusiast on journey through various Python challenges.
+I'm on a mission to become a Python programming expert
+and explore the limitless possibilities this language offers.
+As a self-taught programmer who fell in love with Python,
+Excited I am, to share the steps of my journey with you.
+Join me as we uncover the wonders of the Python world together!
+
+
+
 
 
 ## 🌐 Socials:
