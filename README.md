@@ -1,15 +1,17 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Welcome+to+Python+Quest!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+Welcome+To+Python+Quest!;" />
 </h1>
 
 # 💫 About Me:
-Hello there! I'm Tajsia from Serbia, 
-Also an Python enthusiast on journey through various Python challenges.
-I'm on a mission to become a Python programming expert
-and explore the limitless possibilities this language offers.
-As a self-taught programmer who fell in love with Python,
-Excited I am, to share the steps of my journey with you.
-Join me as we uncover the wonders of the Python world together!
+👋 Hi, I'm Tajsia from Serbia 🇷🇸
+
+🔭 Currently diving deep into Python development and exploring AI
+
+🌱 Always learning: tackling new Python challenges and expanding my knowledge in AI
+
+💬 Ask me about Python, beginner tutorials, AI projects, or creating fun coding experiences
+
+⚡ Fun fact: The first AI program was written in the 1950s, and we've come a long way since then!
 
 
 
