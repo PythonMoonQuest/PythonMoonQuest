@@ -23,9 +23,20 @@
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PythonMoonQuest&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PythonMoonQuest&theme=shadow_green&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PythonMoonQuest&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-pythonquest.vercel.app/?user=pythonquest&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-pythonquest.vercel.app/api?username=pythonquest&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-pythonquest.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
