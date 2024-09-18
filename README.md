@@ -54,8 +54,19 @@
 <hr/>
 <br/>
 
+## 💰 You can help me by Donating
 
+<div align="center">
+  <a href="https://buymeacoffee.com/pythonquest" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
+  </a>
+  <a href="https://ko-fi.com/pythonquest" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi" />
+  </a>
+</div>
 
+<hr/>
+<br/>
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pythonquest) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/pythonquest) 
 
