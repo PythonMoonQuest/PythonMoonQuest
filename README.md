@@ -45,13 +45,17 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <a href="https://buymeacoffee.com/pythonquest" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-006400?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me a Coffee" />
-  </a>
-  <a href="https://ko-fi.com/pythonquest" target="_blank">
-    <img src="https://img.shields.io/badge/Ko--fi-32CD32?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi" />
-  </a>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=PythonMoonQuest&count_private=true&theme=gruvbox&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=PythonMoonQuest&count_private=true&show_icons=true&theme=gruvbox&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=PythonMoonQuest&hide=HTML&langs_count=8&layout=compact&theme=gruvbox&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
 
 ## 💰 You can help me by Donating
 
